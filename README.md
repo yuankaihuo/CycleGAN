@@ -3,13 +3,13 @@
 <br><br><br>
 
 # CycleGAN
-### [[PyTorch]](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) [[project page]](https://junyanz.github.io/CycleGAN/)   [[paper]](https://arxiv.org/pdf/1703.10593.pdf)
+### [[PyTorch]](https://github.com/MASILab/SLANTbrainSeg/tree/master/python) [[project page]](https://github.com/MASILab/SLANTbrainSeg/)   [[paper]](https://arxiv.org/pdf/1806.00546.pdf)
 
 Torch implementation for learning an image-to-image translation (i.e. [pix2pix](https://github.com/phillipi/pix2pix)) **without** input-output pairs, for example:
 
 
 
-<img src="https://junyanz.github.io/CycleGAN/images/teaser_high_res.jpg" width="1000px"/>
+<img src="https://junyanz.github.io/CycleGAN/images/teaser_high_res.jpg" width="500px"/>
 
 [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://junyanz.github.io/CycleGAN/)  
  [Jun-Yan Zhu](https://people.eecs.berkeley.edu/~junyanz/)\*,  [Taesung Park](https://taesung.me/)\*, [Phillip Isola](http://web.mit.edu/phillipi/), [Alexei A. Efros](https://people.eecs.berkeley.edu/~efros/)  
